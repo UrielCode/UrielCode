@@ -13,4 +13,6 @@ Soy Uriel Rodriguez, programdor Front-End
 -->
 
 
-### Tecnologías
+### Tecnologías con las que actualmente trabajo:
+
+<img src="./javascript-svgrepo-com.svg " width="100px">
