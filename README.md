@@ -11,6 +11,14 @@ Me llamo Uriel Rodriguez y soy programdor Front-End.
 
 <img src="./react-svgrepo-com.svg" width="30px"> <img src="./linux-svgrepo-com.svg" width="30px">
 
+#### Proyectos personales
+
+- [Tienda de audifonos](https://urielcode.github.io/tienda-audifonos/)
+- [Tienda Muebles](https://urielcode.github.io/proyecto-tienda/)
+- [Simulación de envió de tweets](https://urielcode.github.io/tweets-local-storage/)
+- [Simulador de envio de correos](https://urielcode.github.io/simulador-envio-correos/)
+-[Tienda con carrito](https://urielcode.github.io/tienda-carrito/)
+
 
 ### Links de contacto
 
