@@ -4,7 +4,7 @@ Me llamo Uriel Rodriguez y soy Desarrollado Web Jr.
 
 #### Tecnologías con las que actualmente trabajo:
 
-<img src="./html-svgrepo-com.svg" width="30px"> <img src="./css-3-logo-svgrepo-com.svg" width="30px"> <img src="./sass-svgrepo-com.svg " width="30px"> <img src="./javascript-svgrepo-com.svg " width="30px"> <img src="./git-svgrepo-com.svg" width="30px">
+<img src="./html-svgrepo-com.svg" width="30px"> <img src="./css-3-logo-svgrepo-com.svg" width="30px"> <img src="./sass-svgrepo-com.svg " width="30px"> <img src="./javascript-svgrepo-com.svg " width="30px"> <img src="./git-svgrepo-com.svg" width="30px"> <img src="./gulp-svgrepo-com.svg" width="30px">
 
 
 #### Tecnologías que estoy aprendiendo:
