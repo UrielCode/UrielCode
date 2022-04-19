@@ -1,6 +1,6 @@
 ### Bienvenido a mi perfil 👋 
 
-Me llamo Uriel Rodriguez y soy programdor Front-End.
+Me llamo Uriel Rodriguez y soy Desarrollado Web Jr.
 
 #### Tecnologías con las que actualmente trabajo:
 
