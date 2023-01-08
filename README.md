@@ -12,11 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UrielCode&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielCode&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=UrielCode&icon=2&color=4)](https://github.com/UrielCode)
+<!-- [![](https://visitcount.itsvg.in/api?id=UrielCode&icon=2&color=4)](https://github.com/UrielCode)-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🕹️ Proyectos personales
+# 💻 Proyectos personales
 
 - [Tienda de audifonos](https://urielcode.github.io/tienda-audifonos/)
 - [Tienda de Muebles](https://urielcode.github.io/proyecto-tienda/)
