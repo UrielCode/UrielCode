@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UrielCode&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielCode&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![](https://github.com/UrielCode)]
+[![](https://visitcount.itsvg.in/api?id=UrielCode&icon=2&color=4)](https://github.com/UrielCode)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -24,4 +24,3 @@
 - [Simulación de envió de tweets](https://urielcode.github.io/tweets-local-storage/)
 - [Simulador de envio de correos](https://urielcode.github.io/simulador-envio-correos/)
 - [Tienda con carrito](https://urielcode.github.io/tienda-carrito/)
-
