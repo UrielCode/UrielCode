@@ -1,18 +1,25 @@
-# 👋Bienvenido a mi perfil:
-## **Me llamo Uriel Rodriguez** y soy **Desarrollado Web Jr**.
 
 
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urielrdguez/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RdguezUriel) 
+# ¡Bienvenidx a mi perfil! 👋
 
-# ⚙️ Skills:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-# 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=UrielCode&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UrielCode&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UrielCode&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- [![](https://visitcount.itsvg.in/api?id=UrielCode&icon=2&color=4)](https://github.com/UrielCode)-->
+## 🚀 Acerca de mí
+Soy Uriel Rodriguez, soy Desarrollado Web Jr con un 1 año de experencia.
+## 🛠 Tecnologías:
+[![JS](https://img.shields.io/twitter/url?color=white&label=JavaScript&logo=JavaScript&logoColor=%23F7DF1E&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![REACT](https://img.shields.io/twitter/url?color=white&label=React&logo=React&logoColor=%2361DAFB&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![HTML5](https://img.shields.io/twitter/url?color=white&label=HTML5&logo=HTML5&logoColor=%23E34F26&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![CSS3](https://img.shields.io/twitter/url?color=white&label=CSS3&logo=CSS3&logoColor=%231572B6&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![SASS](https://img.shields.io/twitter/url?color=white&label=Sass&logo=Sass&logoColor=%23CC6699&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![LINUX](https://img.shields.io/twitter/url?color=white&label=Linux&logo=Linux&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![GIT](https://img.shields.io/twitter/url?color=white&label=Git&logo=Git&logoColor=%23F05032&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+[![WordPress](https://img.shields.io/twitter/url?color=white&label=WordPress&logo=WordPress&logoColor=%2321759B&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
+
+## 🛠 Social
+[![LinkedIn](https://img.shields.io/twitter/url?color=white&label=Portafolio&logo=Vivino&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://twitter.com/RdguezUriel)
+[![Twitter](https://img.shields.io/twitter/url?color=white&label=Twitter&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://twitter.com/RdguezUriel)
+[![LinkedIn](https://img.shields.io/twitter/url?color=white&label=LinkedIn&logo=LinkedIn&logoColor=%230A66C2&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://urielcode.github.io/portafolio/)
+
 
 # 💻 Proyectos personales
 
