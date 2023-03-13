@@ -25,8 +25,10 @@ Soy Uriel Rodriguez, soy Desarrollado Web Jr con un 1 año de experencia. <br> <
 # 💻 Proyectos personales
 
 - [Tienda de audifonos](https://urielcode.github.io/tienda-audifonos/)
-- [Tienda de Muebles](https://urielcode.github.io/proyecto-tienda/)
+- [Lista de tareas pendientes](https://tareas.urielrodriguez.repl.co/)
 - [Tienda de Cafetería](https://urielcode.github.io/pagina-cafeteria/)
-- [Simulación de envió de tweets](https://urielcode.github.io/tweets-local-storage/)
-- [Simulador de envio de correos](https://urielcode.github.io/simulador-envio-correos/)
-- [Tienda con carrito](https://urielcode.github.io/tienda-carrito/)
+- [Juego de piedra papel y tijera](https://piedrapapeltijera.urielrodriguez.repl.co/)
+- [Juego de memorama](https://memory.urielrodriguez.repl.co/)
+- [Animaciones y transiciones de una página web](https://page-animation.urielrodriguez.repl.co/)
+- [Animaciones y transiciones de una página de yoga](https://minimalist.urielrodriguez.repl.co/)
+- [Animaciones de imagenes SVG](https://animationsvg.urielrodriguez.repl.co/)
