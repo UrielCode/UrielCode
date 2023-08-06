@@ -8,7 +8,7 @@ Durante más de un año, he trabajado en diferentes proyectos web, desde el dise
 
 También he tenido la oportunidad de formar parte de equipos de diseño instruccional, donde he podido demostrar mis habilidades de liderazgo, gestión y coordinación. He participado en la planificación, el desarrollo y la evaluación de proyectos educativos online, asegurándome de cumplir con los objetivos, los plazos y los estándares de calidad.
 <br> <br>
-[![Portafolio](https://portafolio-web-ur.netlify.app/)
+[![Portafolio](https://img.shields.io/twitter/url?color=tomato&label=Portafolio%20Personal&logo=Vivino&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://portafolio-web-ur.netlify.app/)
 
 ## 🛠 Tecnologías:
 [![JS](https://img.shields.io/twitter/url?color=F7DF1E&label=JavaScript&logo=JavaScript&logoColor=%23F7DF1E&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
