@@ -2,7 +2,12 @@
 
 
 ## 🚀 Acerca de mí
-Soy Uriel Rodriguez, soy Desarrollado Web Jr con un 1 año de experencia. <br> <br>
+Desarrollador frontend junior apasionado por el mundo web. Me encanta crear y desarrollar páginas web que sean atractivas, funcionales y que respondan a las expectativas de los usuarios.
+
+Durante más de un año, he trabajado en diferentes proyectos web, desde el diseño hasta la implementación, pasando por la corrección, el mantenimiento, el posicionamiento y la optimización. He aprendido a utilizar diversas herramientas y tecnologías para mejorar la experiencia de navegación y el rendimiento de las páginas web.
+
+También he tenido la oportunidad de formar parte de equipos de diseño instruccional, donde he podido demostrar mis habilidades de liderazgo, gestión y coordinación. He participado en la planificación, el desarrollo y la evaluación de proyectos educativos online, asegurándome de cumplir con los objetivos, los plazos y los estándares de calidad.
+<br> <br>
 [![Portafolio](https://img.shields.io/twitter/url?color=tomato&label=Portafolio%20Personal&logo=Vivino&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://urielcode.github.io/portafolio/)
 
 ## 🛠 Tecnologías:
