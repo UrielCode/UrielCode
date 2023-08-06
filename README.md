@@ -8,7 +8,7 @@ Durante más de un año, he trabajado en diferentes proyectos web, desde el dise
 
 También he tenido la oportunidad de formar parte de equipos de diseño instruccional, donde he podido demostrar mis habilidades de liderazgo, gestión y coordinación. He participado en la planificación, el desarrollo y la evaluación de proyectos educativos online, asegurándome de cumplir con los objetivos, los plazos y los estándares de calidad.
 <br> <br>
-[![Portafolio](https://img.shields.io/twitter/url?color=tomato&label=Portafolio%20Personal&logo=Vivino&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)](https://urielcode.github.io/portafolio/)
+[![Portafolio](https://portafolio-web-ur.netlify.app/)
 
 ## 🛠 Tecnologías:
 [![JS](https://img.shields.io/twitter/url?color=F7DF1E&label=JavaScript&logo=JavaScript&logoColor=%23F7DF1E&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FUrielCode%2FUrielCode)]()
@@ -29,11 +29,9 @@ También he tenido la oportunidad de formar parte de equipos de diseño instrucc
 
 # 💻 Proyectos personales
 
-- [Tienda de audifonos](https://urielcode.github.io/tienda-audifonos/)
-- [Lista de tareas pendientes](https://tareas.urielrodriguez.repl.co/)
-- [Tienda de Cafetería](https://urielcode.github.io/pagina-cafeteria/)
-- [Juego de piedra papel y tijera](https://piedrapapeltijera.urielrodriguez.repl.co/)
-- [Juego de memorama](https://memory.urielrodriguez.repl.co/)
-- [Animaciones y transiciones de una página web](https://page-animation.urielrodriguez.repl.co/)
-- [Animaciones y transiciones de una página de yoga](https://minimalist.urielrodriguez.repl.co/)
-- [Animaciones de imagenes SVG](https://animationsvg.urielrodriguez.repl.co/)
+- [Control de gastos](https://c-gastos.netlify.app/)
+- [DeFi | Página de cryptomonedas](https://cryptowebs.netlify.app/)
+- [Simulación de la página principal de Discord](https://pagesd.netlify.app/)
+- [Página para seguimiento de pacientes de veterinaria](https://veterinaria-p.netlify.app/)
+- [Simulación de formularios](https://forms-next.vercel.app/)
+- [Clon de Netflix](https://netf-cl.netlify.app/)
